@@ -32,6 +32,14 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : linkedin.com/in/helena-kim-456b7127a 
 
+<br>
+
+<h2 align="center">My 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="850">
+</p>
+
 <!--
 **hwmps/hwmps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
